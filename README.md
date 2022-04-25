@@ -24,4 +24,4 @@ Then add the following modules to your Python Code:
 All that is required once you've installed the necessary software and modules is to only run this Jupyter Python Notebook is to just startup Jupyter alone or using the Anaconda Software. This project was created on a Windows 10 Operating System using Anaconda.
 
 ## Where to Start
-Everything on this project starts and ends with `Amazon_Web_Scrapper.ipynb`. This is the Python Notebook also creates the `AmazonWebScraperDataset.csv` file.
+Everything on this project starts and ends with `Amazon_Web_Scrapper.ipynb`. This is the Python Notebook that also creates the `AmazonWebScraperDataset.csv` file.
